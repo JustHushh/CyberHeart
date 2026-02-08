@@ -1,2 +1,2 @@
 # CyberHeart
-AI Helper to who have problems!
+AI Helper to people, that have issues and need support!
