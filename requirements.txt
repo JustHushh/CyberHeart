@@ -1,6 +1,2 @@
-.streamlit/secrets.toml
-__pycache__/
-*.pyc
-bot/
-.env
-checker.py
+streamlit
+google-generativeai
